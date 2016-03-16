@@ -3,6 +3,9 @@
 3. Page comments arot included in your theme nor is TGM prompting to install it. http://envato.d.pr/17Zwf/ovA1V2ba - well, im distracted buddy :( .visual comoser is alreay included in the theme and its non 1 position in the list of plugin activation. its on your screenshot: http://envato.d.pr/10lcb/5UQY3JSE
 11. Some of your files contain validation errors that will need to be fixed. Please be sure that all files validate before resubmitting.- i fixed several problems and i think now its ok, here i designed pages without conent so you can validate them here:
 Here is the links to validate: 
+
+this is what i have modified
+
 page: http://testrigel.radiuzz.com/front-page
 post: http://testrigel.radiuzz.com/2016/03/11/hello-world/
 portfolio: http://testrigel.radiuzz.com/portfolio/test-portfolio/
