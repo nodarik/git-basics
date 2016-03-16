@@ -1,0 +1,36 @@
+1. http://envato.d.pr/5Fxt/sorXaNg8 -it was related to older version of TGM plugin, after update i cant see it anymore
+2. http://envato.d.pr/197aF/2nYDbTOk - This is very strange, i cant repdocue this problem, header alreay has white bg not transparent, screenshot: http://imgur.com/mQRNLHw
+3. Page comments arot included in your theme nor is TGM prompting to install it. http://envato.d.pr/17Zwf/ovA1V2ba - well, im distracted buddy :( .visual comoser is alreay included in the theme and its non 1 position in the list of plugin activation. its on your screenshot: http://envato.d.pr/10lcb/5UQY3JSE
+11. Some of your files contain validation errors that will need to be fixed. Please be sure that all files validate before resubmitting.- i fixed several problems and i think now its ok, here i designed pages without conent so you can validate them here:
+Here is the links to validate: 
+page: http://testrigel.radiuzz.com/front-page
+post: http://testrigel.radiuzz.com/2016/03/11/hello-world/
+portfolio: http://testrigel.radiuzz.com/portfolio/test-portfolio/
+blog: http://testrigel.radiuzz.com/blog/
+
+12. Please use TGM plugin activation for all required/recommended plugins in your theme. - Same here, already using TGM plugin activation, used it from the start, in the function.php you can find configuration (Note, i just updated it to latest version)
+
+
+Please note, im still newbie to such things and im just starting, i really apreciate your patience and i understand how your job hard and complicate is, 
+i don like asking to much but please pvovide exmaples like you did it in your previous feedback 
+
+Im diving in deep depresion from this item, hoppe we can finish it soon :(
+
+
+
+
+
+
+
+
+
+
+https://forums.envato.com/t/all-global-variables-should-be-within-a-function-or-class/35537/4
+https://forums.envato.com/t/how-to-fix-a-wordpress-theme-soft-reject-issues/27398/5
+https://forums.envato.com/t/what-is-actually-encapsulate-global-variables-within-a-function/20886
+
+
+
+
+
+latest version is not on testrigel
