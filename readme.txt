@@ -12,6 +12,6 @@ sd
 ics of git and github, so this repo is really just for experimenting
 
 
-hdeleted here
+now this is finally fixed
 
 and this is my changes
