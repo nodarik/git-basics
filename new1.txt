@@ -6,6 +6,8 @@ Here is the links to validate:
 
 this is what i have modified
 
+this is what i should be added in master branch
+
 page: http://testrigel.radiuzz.com/front-page
 post: http://testrigel.radiuzz.com/2016/03/11/hello-world/
 portfolio: http://testrigel.radiuzz.com/portfolio/test-portfolio/
